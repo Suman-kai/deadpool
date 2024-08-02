@@ -1,2 +1,0 @@
-# deadpool
-Vaccine Likelihood Prediction
